@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/star/search/',
+    prefix: '/star/',
     bare: 'https://fireworks.sprk.lol/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
